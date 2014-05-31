@@ -1,0 +1,32 @@
+{
+  "name": "lparse",
+  "version": "0.0.1",
+  "description": "lightweight object mode pattern matching",
+  "main": "index.js",
+  "dependencies": {
+    "matchstick": "^0.6.0",
+    "readable-stream": "^1.0.27-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjfontaine/node-lparse.git"
+  },
+  "keywords": [
+    "expect",
+    "pattern",
+    "matching",
+    "stream",
+    "line",
+    "stream"
+  ],
+  "author": "Timothy J Fontaine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjfontaine/node-lparse/issues"
+  },
+  "homepage": "https://github.com/tjfontaine/node-lparse"
+}
